@@ -1,0 +1,373 @@
+Using pre-set license
+Built from '2022.2/release' branch; Version is '2022.2.2f1 (c93c5d3acf5b) revision 13188189'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15789 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/ASUS/Documents/School/ANDGPRG/Ex1_ANDGPRG_DelosReyes
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+60704
+Successfully changed project path to: C:/Users/ASUS/Documents/School/ANDGPRG/Ex1_ANDGPRG_DelosReyes
+C:/Users/ASUS/Documents/School/ANDGPRG/Ex1_ANDGPRG_DelosReyes
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [32652] Host "[IP] 192.168.1.22 [Port] 0 [Flags] 2 [Guid] 3323982934 [EditorId] 3323982934 [Version] 1048832 [Id] WindowsEditor(7,MatthewsLaptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [32652] Host "[IP] 192.168.1.22 [Port] 0 [Flags] 2 [Guid] 3323982934 [EditorId] 3323982934 [Version] 1048832 [Id] WindowsEditor(7,MatthewsLaptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 15.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.2.2f1 (c93c5d3acf5b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ASUS/Documents/School/ANDGPRG/Ex1_ANDGPRG_DelosReyes/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 with Max-Q Design (ID=0x1f12)
+    Vendor:   NVIDIA
+    VRAM:     5968 MB
+    Driver:   31.0.15.2802
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56428
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010202 seconds.
+- Loaded All Assemblies, in  0.342 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.273 seconds
+Domain Reload Profiling:
+	ReloadAssembly (207ms)
+		BeginReloadAssembly (86ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		LoadAllAssembliesAndSetupDomain (0ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (125ms)
+				TypeCache.Initialize (124ms)
+					TypeCache.ScanAssembly (122ms)
+				ResolveRequiredComponents (1ms)
+		FinalizeReload (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (0ms)
+			SetupLoadedEditorAssemblies (210ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (8ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (138ms)
+				ProcessInitializeOnLoadMethodAttributes (53ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\ASUS\Documents\School\ANDGPRG\Ex1_ANDGPRG_DelosReyes\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\ASUS\Documents\School\ANDGPRG\Ex1_ANDGPRG_DelosReyes\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.840 seconds
+Refreshing native plugins compatible for Editor in 5.07 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.588 seconds
+Domain Reload Profiling:
+	ReloadAssembly (237ms)
+		BeginReloadAssembly (129ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		LoadAllAssembliesAndSetupDomain (598ms)
+			LoadAssemblies (98ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (555ms)
+				TypeCache.Initialize (310ms)
+					TypeCache.ScanAssembly (305ms)
+				ResolveRequiredComponents (4ms)
+		FinalizeReload (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (0ms)
+			SetupLoadedEditorAssemblies (435ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (8ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (72ms)
+				ProcessInitializeOnLoadAttributes (310ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 5.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3394 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (67.9 KB). Loaded Objects now: 3855.
+Memory consumption went from 0.51 GB to 0.51 GB.
+Total: 3.402500 ms (FindLiveObjects: 0.331500 ms CreateObjectMapping: 0.160200 ms MarkObjects: 2.785900 ms  DeleteObjects: 0.123900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4474.709719 seconds.
+  path: Assets/Materials/Planet Icons/Sprites/New Material.mat
+  artifactKey: Guid(a6d12c89c66957247adf249d927c0b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planet Icons/Sprites/New Material.mat using Guid(a6d12c89c66957247adf249d927c0b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18400b8369d8bddd08abadb620c3586a') in 0.136648 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 85.178252 seconds.
+  path: Assets/Materials/Planet Icons/Sprites/New Material.mat
+  artifactKey: Guid(a6d12c89c66957247adf249d927c0b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planet Icons/Sprites/New Material.mat using Guid(a6d12c89c66957247adf249d927c0b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653d2196ff882f2e7df50860f7807310') in 0.019040 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 308.402701 seconds.
+  path: Assets/Planets of the Solar System 3D
+  artifactKey: Guid(de24e9c3adea6ed4fb77fdb9092bf05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Planets of the Solar System 3D using Guid(de24e9c3adea6ed4fb77fdb9092bf05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6dd4f6f87053125d1ba95b858ac5cca') in 0.009282 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 16.031854 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials
+  artifactKey: Guid(efe8bb1e6d82d49b786e8d992b9d1d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials using Guid(efe8bb1e6d82d49b786e8d992b9d1d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ef755ed9104b6cf64219838c01c299') in 0.003569 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.056177 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/Skybox.mat
+  artifactKey: Guid(d51a2253cd79945d08fbe9589d8cb631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/Skybox.mat using Guid(d51a2253cd79945d08fbe9589d8cb631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747d6f301a1dd36034b631220841e0e5') in 0.077337 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Mars_2k.mat
+  artifactKey: Guid(8a5995a14cffc46c9946c25b14f7c26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Mars_2k.mat using Guid(8a5995a14cffc46c9946c25b14f7c26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fdf73da0350ff0f328e271bb66113dd') in 0.019037 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Saturn_Lod.mat
+  artifactKey: Guid(b50a4cf008d5346299340465ad3583f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Saturn_Lod.mat using Guid(b50a4cf008d5346299340465ad3583f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '421817b2e2ce3fcde928a20da4a3f812') in 0.024527 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Asteroid.mat
+  artifactKey: Guid(b5ead511677a448758f7cd3c61b8e557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Asteroid.mat using Guid(b5ead511677a448758f7cd3c61b8e557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38f3108b21dfbfdd7452d170e3d9904b') in 0.018457 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Pluto_Lod.mat
+  artifactKey: Guid(811507dbca1de47c08d812bfcf368fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Pluto_Lod.mat using Guid(811507dbca1de47c08d812bfcf368fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60b0847132784310d87051745c08a2bf') in 0.021121 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Saturn_2k.mat
+  artifactKey: Guid(3b93dc7ab96024123abc24e04ca01e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Saturn_2k.mat using Guid(3b93dc7ab96024123abc24e04ca01e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae3573cbcd09754aafd78c9d24bc4e25') in 0.019555 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Saturn_Ring.mat
+  artifactKey: Guid(e35abc06097ca4fcda800d7ee918a9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Saturn_Ring.mat using Guid(e35abc06097ca4fcda800d7ee918a9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e9750df41b018ec81677d39315a422') in 0.017955 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Mercury_Lod.mat
+  artifactKey: Guid(d7a335629d5364542a8c4be1e8082b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Mercury_Lod.mat using Guid(d7a335629d5364542a8c4be1e8082b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f3347801a15ed80bf01cf9eea02d2af') in 0.017494 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Uranus_2k.mat
+  artifactKey: Guid(7d7d4e53bd1724858a2c2e5923290ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Uranus_2k.mat using Guid(7d7d4e53bd1724858a2c2e5923290ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2cc0bfb38fd61f6773f885f8d7aa52c') in 0.018291 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Neptune_Lod.mat
+  artifactKey: Guid(b5bad6a4e27f8409898cc9791fcc860a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Neptune_Lod.mat using Guid(b5bad6a4e27f8409898cc9791fcc860a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34c08e28661c6e6e875f410a4b9e9cb0') in 0.017268 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Earth_Lod.mat
+  artifactKey: Guid(57efe82f80f0e41ceba1f93b5c0054e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Earth_Lod.mat using Guid(57efe82f80f0e41ceba1f93b5c0054e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ad0c30ed57aad8231ad48f56f29dbe') in 0.020736 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Sun_Smoke.mat
+  artifactKey: Guid(6a153e0b17949482b8dc5f75d33fce33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Sun_Smoke.mat using Guid(6a153e0b17949482b8dc5f75d33fce33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485148405689eff9383ddd72863d45b1') in 0.018627 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Jupiter_2k.mat
+  artifactKey: Guid(957a2e19e0e14495fbce6467614c3e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Jupiter_2k.mat using Guid(957a2e19e0e14495fbce6467614c3e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e74bf74a7a4e4dd53edd2f51cfa41ce8') in 0.018028 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Sun.mat
+  artifactKey: Guid(1e14bb05546c54c5592fd7918d09db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Sun.mat using Guid(1e14bb05546c54c5592fd7918d09db74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d196bb0a5adfa167d6e76ee2ecd9ec') in 0.017037 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Materials/URP_Moon_2k.mat
+  artifactKey: Guid(49fcf79b44f0f4410812764ecb2ae8e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Materials/URP_Moon_2k.mat using Guid(49fcf79b44f0f4410812764ecb2ae8e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce8b1006211c3d93a2bfe793e316fd4') in 0.016495 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.643700 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Prefabs/Asteroids Sphere.prefab
+  artifactKey: Guid(05f83c52d1bc44293a6b0b2bee748289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Prefabs/Asteroids Sphere.prefab using Guid(05f83c52d1bc44293a6b0b2bee748289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21652eb0dff578942849897a540ed03c') in 0.043553 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Prefabs/Nebula_01.prefab
+  artifactKey: Guid(00f2918771afc4e07b0a2018e54d57ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Prefabs/Nebula_01.prefab using Guid(00f2918771afc4e07b0a2018e54d57ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cee22701cddf8783ac7c2d70b538150') in 0.022121 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Prefabs/Neptune.prefab
+  artifactKey: Guid(5d1442ad8c11442988e0eca5d8af73f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Prefabs/Neptune.prefab using Guid(5d1442ad8c11442988e0eca5d8af73f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20cd2d3884567ee914ce37403c27f79a') in 0.049110 seconds 
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Prefabs/Sun.prefab
+  artifactKey: Guid(5f776740c447e45afb25edbca842de92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Prefabs/Sun.prefab using Guid(5f776740c447e45afb25edbca842de92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f9a5c81403ad22e875a560c2578f1c') in 0.026011 seconds 
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Prefabs/Saturn.prefab
+  artifactKey: Guid(b4201d402613a4464b35c805dafcca62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Prefabs/Saturn.prefab using Guid(b4201d402613a4464b35c805dafcca62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0368551a45cf094117762b94ebdb3212') in 0.031427 seconds 
+Number of asset objects unloaded after import = 31
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Materials/Planets of the Solar System 3D/Prefabs/Uranus.prefab
+  artifactKey: Guid(c91342f6e3afc48fd958056404ead345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Planets of the Solar System 3D/Prefabs/Uranus.prefab using Guid(c91342f6e3afc48fd958056404ead345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6278d16d6f3462c1d0314536f62a6fc5') in 0.025014 seconds 
+Number of asset objects unloaded after import = 24
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
